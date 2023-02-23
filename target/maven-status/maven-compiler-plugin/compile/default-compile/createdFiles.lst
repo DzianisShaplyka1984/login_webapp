@@ -1,0 +1,13 @@
+com\academy\LoginFormServlet.class
+com\academy\service\AuthorService.class
+com\academy\service\LoginService.class
+com\academy\BookServlet.class
+com\academy\model\entity\User.class
+com\academy\service\BookService.class
+com\academy\listener\SessionListener.class
+com\academy\HelloServlet.class
+com\academy\model\entity\Author.class
+com\academy\AuthorServlet.class
+com\academy\LoginServlet.class
+com\academy\model\entity\Book.class
+com\academy\filter\AuthFilter.class
